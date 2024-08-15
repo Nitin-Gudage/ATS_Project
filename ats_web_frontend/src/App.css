@@ -1,0 +1,11 @@
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+  padding: 0 35px !important
+}
+.css-ia93bz-MuiFormLabel-root-MuiInputLabel-root{
+  font-weight: 900 !important;
+  color: #000 !important;
+  transform: translate(40px, -9px) scale(0.75) !important;
+}
+.MuiCheckbox-root {
+  pointer-events: none;
+}

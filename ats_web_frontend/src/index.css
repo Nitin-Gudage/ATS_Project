@@ -1,0 +1,39 @@
+* {
+  font-family: "Poppins";
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  padding: 0 27px !important;
+}
+.css-ia93bz-MuiFormLabel-root-MuiInputLabel-root {
+  transform: translate(35px, -9px) scale(0.75) !important;
+}
+.css-38gpt4-MuiTableCell-root {
+  border-bottom: none !important;
+}
+.css-vre91w-MuiTableCell-root {
+  text-align: center !important;
+}
+.css-15x4bcl-MuiTableCell-root {
+  text-align: center !important;
+}
+.css-1oxswqj-MuiStack-root {
+  justify-content: center !important;
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  border-right: none !important;
+}
+.PageScroll {
+  height: 82vh !important;
+  box-sizing: border-box;
+  overflow-y: auto !important;
+  height: calc(100% - 5px);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+.PageScroll::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
